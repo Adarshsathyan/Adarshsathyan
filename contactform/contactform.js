@@ -120,6 +120,6 @@ function send(){
   var name=document.getElementById('name').value
   var email=document.getElementById('email').value
   var message=document.getElementById('message').value
-   var link="mailto:adarshsathyan2000@gmail.com" +"?cc=" +email +"&subject="+ escape("Web Project") +"&body=" +message +name +email;
+   var link="mailto:adarshsathyan2512@gmail.com" +"?cc=" +email +"&subject="+ escape("Web Project") +"&body=" +message +name +email;
    window.location.href=link;
 }
