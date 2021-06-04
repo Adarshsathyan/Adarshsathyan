@@ -1,0 +1,21 @@
+{
+    "name": "Adarsh Portfolio",
+    "short_name": "Adarsh",
+    "start_url": ".",
+    "display": "standalone",
+    "scope":".",
+    "background_color": "#fff",
+    "theme_color": "#3f51b5",
+    "icons": [
+        {
+            "src": "img/pwa/logo64x64.png",
+            "type": "image/png",
+            "sizes": "64x64"
+        },
+        {
+            "src": "img/pwa/logo512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
