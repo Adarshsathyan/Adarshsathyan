@@ -5,7 +5,7 @@
     "display": "standalone",
     "scope":".",
     "background_color": "#fff",
-    "theme_color": "#fff5fd",
+    "theme_color": "#264653",
     "icons": [
         {
             "src": "img/pwa/logo64x64.png",
